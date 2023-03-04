@@ -1,0 +1,17 @@
+﻿  win32_platform.cpp
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\win32_platform.cpp(15,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\win32_platform.cpp(16,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(14,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(26,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(41,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(43,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(60,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(76,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(77,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(78,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(79,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(315,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\renderer.cpp(352,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\game.cpp(17,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\Sort_Algorithm_Visualization\game.cpp(34,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  Sort_Algorithm_Visualization.vcxproj -> C:\Users\bterr\Documents\Projects + Continued Education\C++\Sort_Algorithm_Visualization\x64\Debug\Sort_Algorithm_Visualization.exe
